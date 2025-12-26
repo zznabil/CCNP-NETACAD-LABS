@@ -1,0 +1,18 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Packet Tracer
+*.pka
+*.bak
+
+# GNS3
+*.gns3.bak
+
+# EVE-NG / PNETLab (UNL)
+*.unl.bak
+*.tmp
+
+# Editors
+.vscode/
+.idea/
